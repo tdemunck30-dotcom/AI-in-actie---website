@@ -873,6 +873,18 @@ body.is-modal-open {
         grid-template-columns: 1fr;
     }
 
+    .explanation-card {
+        order: 1;
+    }
+
+    .categories-card {
+        order: 2;
+    }
+
+    .side-column {
+        order: 3;
+    }
+
     .content-card {
         padding: 20px;
     }
